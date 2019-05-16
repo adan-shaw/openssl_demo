@@ -37,7 +37,7 @@
 																					//每段默认长度为: AES_KEY_LEN
 //测试数据
 #define TEST_DATA "11111111111222222222222222333333333333444444444445555555555 \
-	fuck you bitch, i want to fuck you up bitch,,, just leave me alone !!!"
+	asdfasdfssdfasdfasdfsdfsdfsdfsdfsdfsdfsdfsdfsdf !!!"
 
 
 
